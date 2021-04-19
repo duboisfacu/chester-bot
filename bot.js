@@ -9,15 +9,15 @@ const fs = require('fs');
 const fsPromises = fs.promises;
 const path = require('path');
 
+
 glob(__dirname + '/comandos/**/*.js', {}, (err, files)=>{
   files.forEach((file) => {
     if(file.endsWith(".js")) {
-    let fileNamejs = file.split("/")[7];
+    let fileNamejs = file.split(/\/|\\/).pop();
     let fileName = fileNamejs.substring(0, fileNamejs.length - 3);
-    let commandtype = file.split("/")[8];
     let fileContents = require(file);
   client.comandos.set(fileName, fileContents);
-console.log(commandtype + ": " + fileName)
+console.log(fileName)
   };
 })})
 ;
