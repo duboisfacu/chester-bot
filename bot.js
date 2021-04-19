@@ -12,7 +12,7 @@ const path = require('path');
 glob(__dirname + '/comandos/**/*.js', {}, (err, files)=>{
   files.forEach((file) => {
     if(file.endsWith(".js")) {
-    let fileNamejs = file.split("/")[9];
+    let fileNamejs = file.split("/")[7];
     let fileName = fileNamejs.substring(0, fileNamejs.length - 3);
     let commandtype = file.split("/")[8];
     let fileContents = require(file);
