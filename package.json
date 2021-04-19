@@ -1,0 +1,24 @@
+{
+  "name": "chester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "html-to-text": "^6.0.0",
+    "lyrics-finder": "^21.4.0",
+    "node-fetch": "^2.6.1",
+  }
+}
