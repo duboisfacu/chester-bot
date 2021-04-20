@@ -29,7 +29,7 @@ Además de esto, posee comandos que permiten el uso de reacciones personalizadas
 ***
 <center>
 
-## Comandos:
+<h2 align="center">  Comandos: </h2>
 </center>
 
 
