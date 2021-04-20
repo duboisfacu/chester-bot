@@ -8,6 +8,8 @@
 <a align="center" href="https://discord.com/api/oauth2/authorize?client_id=784925087530614815&permissions=8&scope=bot">
   <img src="https://i.ibb.co/jVMTs7r/chester-logo.png">
 </a>
+
+
 ![Aquí la descripción de la imagen por si no carga](https://i.ibb.co/jVMTs7r/chester-logo.png)
 
 </center>
