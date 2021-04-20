@@ -31,7 +31,7 @@ for(const file of readdirSync('./eventos/')){
   }
 }
 
-client.login("Nzg1MzM0NTg0MzI5NjMzODIz.X82V0w.fD_gfaWYF_vYAoSMviH-YgVK46I") //agregamos las promesas de la propiedad login.
+client.login(TOKEN) 
   .then(() => {
     console.log(`Estoy listo, soy ${client.user.tag}`);
   })
