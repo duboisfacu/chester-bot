@@ -50,7 +50,8 @@ Diversión: amor, ask, avatar, decir, encuesta, encuestaanonima.
 Otros: chau, hola, happy, mouse, banana, sad.
 ```
 ```
-Comandos Sin Prefix: 420, abduzcan, bromomento, buenardo, coca, f, messirve, nomessive, nomessirvio, ta bien, ta mal, ta maome, tom chino.
+Comandos Sin Prefix: 420, abduzcan, bromomento, buenardo, coca, f, 
+messirve, nomessive, nomessirvio, ta bien, ta mal, ta maome, tom chino.
 ```
 ***
 <center>
