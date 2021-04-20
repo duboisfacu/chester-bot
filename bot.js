@@ -8,7 +8,6 @@ client.comandos = new Discord.Collection();
 const fs = require('fs');
 const fsPromises = fs.promises;
 const path = require('path');
-const config = require('./config.js');
 
 glob(__dirname + '/comandos/**/*.js', {}, (err, files)=>{
   files.forEach((file) => {
@@ -31,7 +30,7 @@ for(const file of readdirSync('./eventos/')){
   }
 }
 
-client.login(config.token) 
+client.login(process.env.TOKEN) 
   .then(() => {
     console.log(`Estoy listo, soy ${client.user.tag}`);
   })
