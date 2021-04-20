@@ -1,7 +1,9 @@
 <p align="center">
-  
-<h1>CHESTER BOT</h1>
+<h1>
+  Chester Bot
+</h1>
 </p>
+
 
 <p align="center">
 <a href="https://discord.com/api/oauth2/authorize?client_id=784925087530614815&permissions=8&scope=bot">
