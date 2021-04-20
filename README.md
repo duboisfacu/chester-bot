@@ -55,7 +55,8 @@ Comandos Sin Prefix: 420, abduzcan, bromomento, buenardo, coca, f, messirve, nom
 ***
 <center>
 
-## Mis Redes
+<h2 align="center"> Mis Redes </h2>
+<p  align="center">
 <a href="https://www.linkedin.com/in/facundo-n-dubois-08b251184/">
   <img src="https://i.ibb.co/7VZQrXx/link.png" height=50px>
 </a>
@@ -68,4 +69,5 @@ Comandos Sin Prefix: 420, abduzcan, bromomento, buenardo, coca, f, messirve, nom
 <a href="https://twitter.com/duboisfacu">
 <img src="https://i.ibb.co/PxrxjS2/twitter.png" height=50px>
 </a>
+  </p>
 </center>
