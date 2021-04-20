@@ -1,5 +1,4 @@
 <p align="center">
-  <h1> Chester Bot </h1>|
   <img src="https://i.ibb.co/jVMTs7r/chester-logo.png"/>
 </p>
 
