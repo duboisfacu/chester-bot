@@ -31,7 +31,7 @@ for(const file of readdirSync('./eventos/')){
   }
 }
 
-client.login(TOKEN) 
+client.login(config.token) 
   .then(() => {
     console.log(`Estoy listo, soy ${client.user.tag}`);
   })
