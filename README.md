@@ -9,7 +9,7 @@
 ***
 <center>
 
-## ¿Quién es Chester?
+<h2 align="center"> ¿Quién es Chester?</h2>
 </center>
 
 
@@ -20,7 +20,7 @@ Al notar su precencia, decidimos apodarla "Chester, haciendo alución al amigo d
 ***
 <center>
 
-## ¿Qué es Chester-Bot?
+<h2 align="center"> ¿Qué es Chester-Bot?</h2>
 </center>
 
 Chester-Bot es un bot multifuncional para la plataforma Discord.
