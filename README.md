@@ -1,19 +1,16 @@
 
-<center>
+<p align="center">
 <h1 align="center">CHESTER BOT</h1>
 
 <p></p><p>
 </p><p</p>
 
-<p align="center">
+
 <a align="center" href="https://discord.com/api/oauth2/authorize?client_id=784925087530614815&permissions=8&scope=bot">
   <img align="center" src="https://i.ibb.co/jVMTs7r/chester-logo.png">
 </a>
 </p>
 
-![Aquí la descripción de la imagen por si no carga](https://i.ibb.co/jVMTs7r/chester-logo.png)
-
-</center>
 
 ***
 <center>
