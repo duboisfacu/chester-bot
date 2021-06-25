@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://discord.com/api/oauth2/authorize?client_id=784925087530614815&permissions=8&scope=bot">
-  <img height=200px src="https://i.ibb.co/DkN2BsC/Chester.png"/>
+  <img height=250px src="https://i.ibb.co/DkN2BsC/Chester.png"/>
   </a>
 </p>
 
