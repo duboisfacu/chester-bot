@@ -1,24 +1,27 @@
 {
-  "name": "chester",
+  "name": "chester-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\"> Chester Bot </h1>",
   "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.7",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duboisfacu/chester-bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@discordjs/opus": "^0.3.3",
-    "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0",
-    "ffmpeg": "0.0.4",
-    "ffmpeg-static": "^4.2.7",
-    "fs": "0.0.1-security",
-    "glob": "^7.1.6",
-    "html-to-text": "^6.0.0",
-    "lyrics-finder": "^21.4.0",
-    "node-fetch": "^2.6.1"
-  }
+  "bugs": {
+    "url": "https://github.com/duboisfacu/chester-bot/issues"
+  },
+  "homepage": "https://github.com/duboisfacu/chester-bot#readme"
 }
