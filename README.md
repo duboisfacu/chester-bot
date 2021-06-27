@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://discord.com/api/oauth2/authorize?client_id=784925087530614815&permissions=8&scope=bot">
-  <img height=250px src="https://i.ibb.co/DkN2BsC/Chester.png"/>
+  <img height=250px src="README.resources/chester.png"/>
   </a>
 </p>
 
@@ -61,16 +61,16 @@ messirve, nomessive, nomessirvio, ta bien, ta mal, ta maome, tom chino.
 <h2 align="center"> Mis Redes </h2>
 <p  align="center">
 <a href="https://www.linkedin.com/in/duboisfacu/" target="_blank">
-  <img src="https://i.ibb.co/7VZQrXx/link.png" height=50px>
+  <img src="README.resources/lkn.png" height=50px>
 </a>
 <a href="https://www.instagram.com/duboisfacu/" target="_blank">
-  <img src="https://i.ibb.co/stNqbkw/ig.png" height=50px>
+  <img src="README.resources/ig.png" height=50px>
 </a>
 <a href="https://www.reddit.com/user/duboisfacu" target="_blank">
-<img src="https://i.ibb.co/4T7YM0V/reddit.png" height=50px>
+<img src="README.resources/rddt.png" height=50px>
 </a>
 <a href="https://twitter.com/duboisfacu" target="_blank">
-<img src="https://i.ibb.co/PxrxjS2/twitter.png" height=50px>
+<img src="README.resources/twt.png" height=50px>
 </a>
   </p>
 </center>
